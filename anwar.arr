@@ -9,9 +9,9 @@ fourth_layer = rectangle(160, 90, "solid", "crimson")
 
 fifth_layer = rectangle(160, 90, "solid", "crimson")
 
-sixth_layer = rectangle(20, 360, "solid", "navy")
+sixth_layer = rectangle(22.5, 360, "solid", "navy")
 
-seventh_layer = rectangle(480, 20, "solid", "navy")
+seventh_layer = rectangle(480, 22.5, "solid", "navy")
 
 put-image(second_layer, 40, 40,
   
@@ -23,6 +23,6 @@ put-image(second_layer, 40, 40,
         
         put-image(third_layer, 40, 170, 
           
-          put-image(seventh_layer, 60, 103,
+          put-image(seventh_layer, 60, 104,
             
             first_layer))))))

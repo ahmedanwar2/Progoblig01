@@ -1,5 +1,5 @@
 use context essentials2021
-first_layer = rectangle(280, 200, "solid", "white")
+first_layer = rectangle(272.5, 200, "solid", "white")
 
 second_layer = square(90, "solid", "crimson")
 
